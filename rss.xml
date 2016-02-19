@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RasmusHulgaard]]></title>
         <description><![CDATA[RasmusHulgaard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rasmushulgaard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 21:48:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 21:52:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rasmushulgaard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rasmus Hulgaard ApS]]></title>
-            <description><![CDATA[<article><h1>Rasmus Hulgaard ApS</h1><p>Personlig vejledning til succes i din sport.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9035e4d2-01ab-464c-bede-d6258725c8c8.jpg"></article>]]></description>
-            <link>undefinedrasmus-hulgaard-aps/index.html</link>
+            <description><![CDATA[<article><h1>Rasmus Hulgaard ApS</h1><p>Personlig vejledning til succes i din sport.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d72e59b7799e6065b4d5bd026a958f07028783f2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rasmushulgaard/rasmus-hulgaard-aps/index.html</link>
             <guid isPermaLink="false">d0d4a024-7e18-4c5d-90cd-955f9d6ce881</guid>
-            <pubDate>Fri, 19 Feb 2016 21:46:50 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 21:51:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
