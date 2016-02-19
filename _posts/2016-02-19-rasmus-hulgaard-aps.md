@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Personlig coach
-datePublished: '2016-02-19T21:46:50.059Z'
-dateModified: '2016-02-19T21:46:17.525Z'
+datePublished: '2016-02-19T21:51:45.544Z'
+dateModified: '2016-02-19T21:46:58.700Z'
 title: Rasmus Hulgaard ApS
 author: []
+sourcePath: _posts/2016-02-19-rasmus-hulgaard-aps.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-19-rasmus-hulgaard-aps.md
-published: true
 url: rasmus-hulgaard-aps/index.html
 _type: Article
 
