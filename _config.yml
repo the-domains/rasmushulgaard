@@ -1,0 +1,28 @@
+name: RasmusHulgaard
+favicon: null
+layout_spectrum: 0.15026028058491647
+typography_spectrum: 0.7034729954320937
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.37914619012735784
+  lightness: 0.13240795116871595
+  saturation: 0.4602866368368268
+  rhythmicContrast: 0.7584343464113772
+purpose: []
